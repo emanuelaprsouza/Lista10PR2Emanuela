@@ -213,8 +213,6 @@ namespace Lista10PR2Emanuela
                 Console.WriteLine("Para executar exercício 3 - digite 3");
                 Console.WriteLine("Para executar exercício 4 - digite 4");
                 Console.WriteLine("Para executar exercício 5 - digite 5");
-                Console.WriteLine("Para executar exercício 6 - digite 6");
-                Console.WriteLine("Para executar exercício 7 - digite 7");
                 Console.WriteLine("====================================");
 
                 opcao = int.Parse(Console.ReadLine()); //lê a opção escolhida 
