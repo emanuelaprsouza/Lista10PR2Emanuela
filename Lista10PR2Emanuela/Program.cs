@@ -158,7 +158,7 @@ namespace Lista10PR2Emanuela
         public static void Exercicio5()
         {
             int[] vet2;
-            int t,par,impar;
+            int t, par = 0, impar = 0;
        
             do
             {
@@ -174,6 +174,7 @@ namespace Lista10PR2Emanuela
             for (int i = 0; i < t; i++)
             {
                 vet2[i] = rand.Next(1, 100);
+             
 
                 if (vet2[i] % 2 == 0)
                 {
